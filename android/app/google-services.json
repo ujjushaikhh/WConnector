@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655581197427",
+    "project_id": "wconnector-2e79f",
+    "storage_bucket": "wconnector-2e79f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655581197427:android:49b7739d0e3d873f28e606",
+        "android_client_info": {
+          "package_name": "com.example.wconnectorconnectorflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7skgLejliAlatORk9bNxQ_jJIBMIkx1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
